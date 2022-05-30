@@ -10,7 +10,7 @@ Avaliação final do Módulo de lógica de programação da turma 854 - programa
 \
 **Desafio**
 
-Crie um jogo de batalha naval onde 2 jogadores podem participar. \
+Criar um jogo de batalha naval onde 2 jogadores podem participar. \
 Bonus: jogador pode escolher jogar sozinho (contra o computador).
 
 **Sobre o jogo**
