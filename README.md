@@ -25,5 +25,5 @@ Batalha naval é um jogo de tabuleiro de dois jogadores, no qual os jogadores t�
 
 **Como executar o programa** 
 - Clonar o repositório em uma pasta local: ```git clone```  ```https://github.com/sathyagimenes/854Prova-Sathya-Gimenes.git```
-- Abra a solução do projeto com o visual studio 
+- Abra a solução do projeto com o visual studio: arquivo ```BatalhaNaval.sln```
 - Execute o projeto com ```CTRL + F5```
