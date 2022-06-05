@@ -1,7 +1,8 @@
-# 854Prova-Sathya-Gimenes
-Jogo Batalha Naval | Projeto Final | Módulo Lógica de Programação | C# .NET6
- 
- \
+# 💣 Naval battle game
+Jogo Batalha Naval | Projeto Final | Módulo Lógica de Programação | C# .NET6 
+<br>
+<br>
+## 📌 About
 Avaliação final do Módulo de lógica de programação da turma 854 - programa Top Coders da Let's Code com o banco Safra. 
 
 > Conceitos aplicados:
@@ -23,7 +24,7 @@ Batalha naval é um jogo de tabuleiro de dois jogadores, no qual os jogadores t�
 - 4 Submarinos (2 quadrantes) 
 
 
-**Como executar o programa** 
+## 🛠 Como executar o programa
 - Clonar o repositório em uma pasta local: ```git clone```  ```https://github.com/sathyagimenes/854Prova-Sathya-Gimenes.git```
 - Abra a solução do projeto com o visual studio: arquivo ```BatalhaNaval.sln```
 - Execute o projeto com ```CTRL + F5```
