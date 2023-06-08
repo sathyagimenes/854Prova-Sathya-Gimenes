@@ -1,4 +1,4 @@
-# 💣 Naval battle game
+# 💣 Battleship game
 Jogo Batalha Naval | Projeto final do módulo Lógica de Programação | C# .NET6 
 <br>
 <br>
